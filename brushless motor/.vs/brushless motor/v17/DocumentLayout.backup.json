@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kyhnf\\source\\repos\\RETSTXDRGERYS\\arduproj\\brushless motor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{075B15E4-3AC4-4985-9B8F-5D7276452108}|brushless motor.vcxproj|C:\\Users\\Kyhnf\\source\\repos\\RETSTXDRGERYS\\arduproj\\brushless motor\\brushless motor.ino||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{075B15E4-3AC4-4985-9B8F-5D7276452108}|brushless motor.vcxproj|solutionrelative:brushless motor.ino||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "brushless motor.ino",
+              "DocumentMoniker": "C:\\Users\\Kyhnf\\source\\repos\\RETSTXDRGERYS\\arduproj\\brushless motor\\brushless motor.ino",
+              "RelativeDocumentMoniker": "brushless motor.ino",
+              "ToolTip": "C:\\Users\\Kyhnf\\source\\repos\\RETSTXDRGERYS\\arduproj\\brushless motor\\brushless motor.ino",
+              "RelativeToolTip": "brushless motor.ino",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOjSURBVDhPnZTLb1RlGIef75wz17bT6UBbRKZAIERsRGsiXoIxgDESo0Yx7oxrm5AYV/4DLt1IIBjdoGHBwnhhA2EjFk1cgKJQiCFCraWXKXY6c\u002BbMOd/tdUFRJEHEJ3k27y/v73tXn2KF8fFxPti/n\u002Bk4KV5P04LcDP6FWrGgR3p7uvv27ePQwYMgIurBsTHe//zLsFoobPlufv71Za13WZEa3K1SEaGWK/n8qaeGh44OlkoXXtz5jFNf/XqFjyYvbh2t1d5rpOnz1vni3apuooAoCHStWPh6z0j93fmk\u002B2N4\u002BckdbB8aHr/aar/ZMaakneNeTK0NW9rUF5Kufra\u002B7oQ6cOZc8XRj4USj2336v152OwoYyBfO7d24fmcg3hevp\u002BnAsjG0b7G14q2zO82XtWFJZ9Vflpo9QTNNiY1VsXW0jSNznkqhyPq\u002BCsPlMoIito62dXhRDJbKbOirUC0U0V5oG0fsbuwupxlRK81IrKPrHOUwZPf9a9m5ZgishTDgcqfLZ1emMF7Yu3GEB3rLKA8qCvm2cZ1jU9PEzpJD0c40UUtrtHc4Lzw6vIqX1g7zxfnzXFiOGSyXeHnzJt7asplMhH5nOXZ\u002BkkWjua/cw2ujW1nsJhyfmSULHLExBG1jsSLklWKs2s\u002BZ6RlOLi6xevUgDRXy4eQl6qUCoz0lPv7pZ5J8gcc3bGCi2eL0zAxj1X5KCrwXYmsJWtbinEcQnLUkIgS5HL1ph5JOMUoRZ4ZEG7J8gUgcURwTeUfiwGYavMd6T2ItQewsIkJmLWfnF9hS6eOhapVzSYoOI14dWcfvjQUm5\u002BZ5ZaRO21iOX5tjU3\u002BFh/vK/DA7S9c5ECFxDvXEkaPVuUxPGPGjZYTd1QrbagNoIBSh0Y45OTuHCSOeWzPEmnIJrwLywMXFRU4uNWlHOXIqmKrlcjvUI4ePVJvaTFhkVBDyzjOohIqC1HkWvRAHIYQhPc6xWkFZQcs5GiJkUR4VBESoqd4o3BEYY8BbcA7lPAa45uCSFaYIbpQpBd7TAX7zcNEJMypEBxFKBJxDvMUYQ5DpLBNjm8pa/tI7lPcrj7i/587BSqZuyzC2Jc4lQTPudDHmG7TO0Jr/qcGY02JtM\u002BgNAgYGVh3FmFNitBajuUcNxnyPc59kaSoqXx\u002Bh/vY7YdZNt4n4N0TYBfTf/qPcgbZSTKCCw0pxduHQAatuJuXHtlPd84ICqijV88\u002B9OyCSAE3b6fg/Pj2MXZjnTyZbpCugbyrKAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-07-24T09:03:56.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
